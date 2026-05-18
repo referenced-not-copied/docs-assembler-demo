@@ -26,12 +26,12 @@
 
         {% if page.isGuide == true %}
         <div class="breadcrumbs">
-          <a href="https://github.com/netoftrees/docs-assembler-demo/tree/main/docs/{{ breadcrumb }}">
+          <a href="https://github.com/netoftrees/docs-assembler-demo/tree/main/docs/{{ breadcrumb }}?plain=1">
             <span class="breadcrumb-name">guide: </span>
             <span class="breadcrumb-value">docs/{{ breadcrumb }}</span>
           </a>
 
-          <a href="https://github.com/netoftrees/docs-assembler-demo/tree/main/tsmaps/{{ page.mapFolderPath }}">
+          <a href="https://github.com/netoftrees/docs-assembler-demo/tree/main/{{ page.mapFolderPath }}">
             <span class="breadcrumb-name">map: </span>
             <span class="breadcrumb-value breadcrumb-decoded">{{ page.mapFolderPath | url_decode }}</span>
             <span class="breadcrumb-value breadcrumb-undecoded">{{ page.mapFolderPath }}</span>
