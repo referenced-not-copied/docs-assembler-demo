@@ -1,11 +1,11 @@
 {
     "migrations": {
-        "createdByDocsAssemblerVersion": "0.9.34",
-        "lastDocsAssemblerVersion": "0.9.34",
+        "createdByDocsAssemblerVersion": "0.9.40",
+        "lastDocsAssemblerVersion": "0.9.40",
         "migrations": []
     },
     "resources": {
         "version": "0.0.29",
-        "installedAt": "2026-05-30T23:57:09.853Z"
+        "installedAt": "2026-06-12T21:51:13.034Z"
     }
 }
