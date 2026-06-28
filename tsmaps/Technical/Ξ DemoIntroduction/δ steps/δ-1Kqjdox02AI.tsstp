@@ -1,4 +1,4 @@
-#### The maths
+##### The maths
 
 | Level                | Options                         |
 | -------------------- | ------------------------------- |
@@ -8,7 +8,7 @@
 | Support package      | 3                               |
 | Tower type           | 3 (1, 2, or 4 frames)           |
 | Modules per frame    | 2 (1 or 2)                      |
-| Crops per module     | 130 (10 varieties × 13 species) |
+| Crops per module     | 130 (10 categories × 13 varieties/species) |
 
 Total pathways: ~10 quintillion
 
