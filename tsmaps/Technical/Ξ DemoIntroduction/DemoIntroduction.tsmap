@@ -4,7 +4,7 @@
     "name": "DemoIntroduction",
     "created": "2025-09-17T18:18:15.002Z",
     "list": true,
-    "cachedPath": "d:/GitHub/netoftrees/docs-assembler-demo/tsmaps/Technical/Ξ DemoIntroduction/DemoIntroduction.tsmap",
+    "cachedPath": "c:/GitHub/Referenced-not-copied/docs-assembler-demo/tsmaps/Technical/Ξ DemoIntroduction/DemoIntroduction.tsmap",
     "iText": "Link to 'DemoIntroduction'",
     "iExits": [
         {
@@ -17,8 +17,23 @@
         "key": "u5gkFx00HL",
         "nodes": [
             {
-                "key": "u5gpCU01mT",
+                "key": "1KqjZHO00Qb",
                 "order": 1,
+                "option": "How is this possible?",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "1Kqjdox02AI",
+                        "order": 1,
+                        "option": "Here's the maths",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            },
+            {
+                "key": "u5gpCU01mT",
+                "order": 2,
                 "option": "Start the demo",
                 "iKey": "s7SMNM05c",
                 "nodes": [
@@ -41,11 +56,19 @@
         {
             "key": "δ-u5gpCU01mT",
             "relativePath": "./δ steps/δ-u5gpCU01mT.tsstp"
+        },
+        {
+            "key": "δ-1KqjZHO00Qb",
+            "relativePath": "./δ steps/δ-1KqjZHO00Qb.tsstp"
+        },
+        {
+            "key": "δ-1Kqjdox02AI",
+            "relativePath": "./δ steps/δ-1Kqjdox02AI.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1D3tIp200tf",
-        "editorID": "car_1a4fa5439ee44274b081fed2488c68a7",
-        "ticks": 1775513071804
+        "id": "1KqjwTx01qb",
+        "editorID": "car_78c745991c77442e9b39c08c37acf77d",
+        "ticks": 1782647811265
     }
 }

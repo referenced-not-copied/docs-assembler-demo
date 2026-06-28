@@ -15,3 +15,11 @@ This is the end result: documentation that feels like a guided tour, not a manua
 
 The demo below is embedded directly into this guide. It's one small example of the complexity these systems can manage.
 
+The demo below is embedded directly into this guide. It's one small example of the complexity these systems can manage - and the numbers behind it are staggering:
+
+**This single guide has more possible paths than Wikipedia has pages.**
+
+*Choose your location, power, climate, and crops. Behind each choice, the tree branches - but to you, it will feel like plain prose.*
+
+Yet you build and maintain it with nothing more than a text editor. No database. No SaaS dashboard. Just Markdown and JSON in your repo.
+
